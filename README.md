@@ -7,15 +7,19 @@ Welcome to my Data Science Portfolio! This repository houses a diverse collectio
 ### 1. [Project 1:]()
 Description: Brief description of the project, its goals, and methodologies used.
 Technologies: Python, Pandas, Scikit-Learn, Matplotlib, etc.
+[](image)
 
 ### 2. [Project 2:]()
 Description: Another project description highlighting the problem statement and solution.
 Technologies: Mention relevant technologies and tools used in this project.
+[](image)
 
 ### 3. [Project 3:]()
 Description: Provide a concise overview of the project, including any unique challenges faced.
 Technologies: List the key technologies applied in the project.
-Why Explore This Repository?
+[](image)
+
+### Why Explore This Repository?
 
 Diverse Skill Set: Projects cover a range of data science tasks, including data cleaning, visualization, and predictive modeling.
 Learning Opportunities: Each project comes with detailed documentation, providing insights into the methodologies employed.
