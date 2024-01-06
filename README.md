@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository houses a diverse collectio
 
 ## Projects
 
-### 1. [BCGX Churn Analysis:](https://github.com/GordonMensah/BCGX-Project)
+### 1. [Unraveling Customer Churn in the Power Industry-BCGX Churn Analysis:](https://github.com/GordonMensah/BCGX-Project)
 Description: The BCGX Project analysis the Data of PowerCo , a major gas and electricity utility that supplies to corporate, SME (Small & amp; Medium Enterprise), and residential customers
 Technologies: Python, Pandas,Nummpy, Scikit-Learn, Matplotlib,Seaborn etc.
 [](image)
