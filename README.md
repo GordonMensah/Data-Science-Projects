@@ -4,19 +4,9 @@ Welcome to my Data Science Portfolio! This repository houses a diverse collectio
 
 ## Projects
 
-### 1. [Project 1:](https://github.com/GordonMensah/BCGX-Project)
-Description: Brief description of the project, its goals, and methodologies used.
-Technologies: Python, Pandas, Scikit-Learn, Matplotlib, etc.
-[](image)
-
-### 2. [Project 2:]()
-Description: Another project description highlighting the problem statement and solution.
-Technologies: Mention relevant technologies and tools used in this project.
-[](image)
-
-### 3. [Project 3:]()
-Description: Provide a concise overview of the project, including any unique challenges faced.
-Technologies: List the key technologies applied in the project.
+### 1. [BCGX Churn Analysis:](https://github.com/GordonMensah/BCGX-Project)
+Description: The BCGX Project analysis the Data of PowerCo , a major gas and electricity utility that supplies to corporate, SME (Small & amp; Medium Enterprise), and residential customers
+Technologies: Python, Pandas,Nummpy, Scikit-Learn, Matplotlib,Seaborn etc.
 [](image)
 
 ### Why Explore This Repository?
