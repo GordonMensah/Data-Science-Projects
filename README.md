@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository houses a diverse collectio
 
 ## Projects
 
-### 1. [Project 1:]()
+### 1. [Project 1:](https://github.com/GordonMensah/BCGX-Project)
 Description: Brief description of the project, its goals, and methodologies used.
 Technologies: Python, Pandas, Scikit-Learn, Matplotlib, etc.
 [](image)
