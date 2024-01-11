@@ -4,6 +4,10 @@ Welcome to my Data Science Portfolio! This repository houses a diverse collectio
 
 ## Projects
 
+### 1. [BCGX Churn Analysis:](https://github.com/GordonMensah/BCGX-Project)
+Description: The BCGX Project analysis the Data of PowerCo , a major gas and electricity utility that supplies to corporate, SME (Small & amp; Medium Enterprise), and residential customers
+Technologies: Python, Pandas,Nummpy, Scikit-Learn, Matplotlib,Seaborn etc.
+
 ### 2. [British Airways Sentiment Analysis and Flight Booking Prediction:]([https://github.com/GordonMensah/BCGX-Project](https://github.com/GordonMensah/British-airways))
 Description: A comprehensive analysis of customer sentiments towards British Airways, utilizing reviews sourced from SkyyTrax.com as well as a flight booking model predcition project.
 Technologies: Python, Pandas,Nummpy, Scikit-Learn, Matplotlib,Seaborn etc.
