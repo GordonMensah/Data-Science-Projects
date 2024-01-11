@@ -9,6 +9,12 @@ Description: The BCGX Project analysis the Data of PowerCo , a major gas and ele
 Technologies: Python, Pandas,Nummpy, Scikit-Learn, Matplotlib,Seaborn etc.
 [](image)
 
+
+### 2. [Unraveling Customer Churn in the Power Industry-BCGX Churn Analysis:](https://github.com/GordonMensah/BCGX-Proje)
+Description: The BCGX Project analysis the Data of PowerCo , a major gas and electricity utility that supplies to corporate, SME (Small & amp; Medium Enterprise), and residential customers
+Technologies: Python, Pandas,Nummpy, Scikit-Learn, Matplotlib,Seaborn etc.
+[](image)
+
 ### Why Explore This Repository?
 
 Diverse Skill Set: Projects cover a range of data science tasks, including data cleaning, visualization, and predictive modeling.
