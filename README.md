@@ -15,6 +15,11 @@ Description: A comprehensive analysis of customer sentiments towards British Air
 Technologies: Webscrapping,Wordcloud, Python, Pandas,Numpy, Scikit-Learn, Matplotlib,Seaborn ,Sentiment Analysis.
 [](image)
 
+
+### 3. [Insights into Passenger Plane Crashes (1933-2009) :](https://github.com/GordonMensah/BCGX-Project)
+Description: Welcome to the Passenger Plane Crashes Analysis project! In this analysis, I delved into historical data spanning from 1933 to 2009, exploring patterns and insights related to aviation incidents.
+
+Technologies: Python, Pandas,Numpy, Scikit-Learn, Matplotlib,Seaborn etc.
 ### Why Explore This Repository?
 
 Diverse Skill Set: Projects cover a range of data science tasks, including data cleaning, visualization, and predictive modeling.
