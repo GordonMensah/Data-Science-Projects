@@ -16,7 +16,7 @@ Technologies: Webscrapping,Wordcloud, Python, Pandas,Numpy, Scikit-Learn, Matplo
 [](image)
 
 
-### 3. [Insights into Passenger Plane Crashes (1933-2009) :](https://github.com/GordonMensah/BCGX-Project)
+### 3. [Insights into Passenger Plane Crashes (1933-2009) :](https://github.com/GordonMensah/Passenger-Plane-Crashes-Analysis-1933-2009-/tree/main)
 Description: Welcome to the Passenger Plane Crashes Analysis project! In this analysis, I delved into historical data spanning from 1933 to 2009, exploring patterns and insights related to aviation incidents.
 
 Technologies: Python, Pandas,Numpy, Scikit-Learn, Matplotlib,Seaborn etc.
